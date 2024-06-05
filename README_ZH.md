@@ -1,6 +1,6 @@
 # 智能电表解决方案
 
-[[English](./README.md)]
+中文 | [English](./README.md)
 
 ## 概述
 
